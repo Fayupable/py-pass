@@ -18,7 +18,3 @@ The user can specify the length of the password to be generated.
 Generated passwords are securely randomized.
 Contributing
 If you would like to contribute to this project, please first read the CONTRIBUTING.md file.
-
-```
-This text explains what the password.py file does and how to use it. You can modify this text according to your needs.
-```
